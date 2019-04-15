@@ -33,4 +33,4 @@ Every year a lot of companies hire a number of employees. The companies __invest
 - We used Random forest and learned how it can be very advantageous over other available machine learning algorithm. 
 - Most of all we found factors which are most important to employees and if are not fulfilled might lead to Attrition.
 
-[Jupyter Notebook](./HR_Analytics.ipynb)
+[Jupyter Notebook](.HR_Analytics.ipynb)
